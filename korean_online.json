@@ -110,19 +110,5 @@
     "codec": "MP3",
     "bitrate": "128",
     "hls":  0
-  },
-{
-    "stationuuid": "9649713d-0601-10e8-ae97-5c543be04240",
-    "name": "광주영어 FM방송 - eFM 98.7",
-    "url": "http://218.157.19.198:8000",
-    "favicon": "https://cdn.webrad.io/images/logos/radioonline-kr/gwangju-yeong-eo-ladio.png",
-    "tags": "98.7 FM,Education",
-    "countrycode": "KR",
-    "state": "Gwangju",
-    "language": "korean,english",
-    "votes": "12",
-    "codec": "MP3",
-    "bitrate": "128",
-    "hls":  0
   }
 ]
